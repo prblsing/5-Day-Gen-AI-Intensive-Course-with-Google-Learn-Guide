@@ -2,14 +2,14 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "e85dbc47",
+   "id": "46bddbac",
    "metadata": {
     "id": "jkxRSYjzA1oX",
     "papermill": {
-     "duration": 0.013512,
-     "end_time": "2025-04-05T02:24:37.582412",
+     "duration": 0.009045,
+     "end_time": "2025-04-05T02:26:58.828165",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.568900",
+     "start_time": "2025-04-05T02:26:58.819120",
      "status": "completed"
     },
     "tags": []
@@ -21,24 +21,24 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "e12e9a7e",
+   "id": "74ea1788",
    "metadata": {
     "cellView": "form",
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:24:37.609893Z",
-     "iopub.status.busy": "2025-04-05T02:24:37.609493Z",
-     "iopub.status.idle": "2025-04-05T02:24:37.615569Z",
-     "shell.execute_reply": "2025-04-05T02:24:37.614498Z"
+     "iopub.execute_input": "2025-04-05T02:26:58.848171Z",
+     "iopub.status.busy": "2025-04-05T02:26:58.847879Z",
+     "iopub.status.idle": "2025-04-05T02:26:58.852499Z",
+     "shell.execute_reply": "2025-04-05T02:26:58.851681Z"
     },
     "id": "5u5OZ2ShA3BA",
     "jupyter": {
      "source_hidden": true
     },
     "papermill": {
-     "duration": 0.022967,
-     "end_time": "2025-04-05T02:24:37.617787",
+     "duration": 0.016368,
+     "end_time": "2025-04-05T02:26:58.853937",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.594820",
+     "start_time": "2025-04-05T02:26:58.837569",
      "status": "completed"
     },
     "tags": []
@@ -60,14 +60,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d61ce78a",
+   "id": "0eef7af6",
    "metadata": {
     "id": "csNPnkuCobmG",
     "papermill": {
-     "duration": 0.012001,
-     "end_time": "2025-04-05T02:24:37.642287",
+     "duration": 0.00793,
+     "end_time": "2025-04-05T02:26:58.870135",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.630286",
+     "start_time": "2025-04-05T02:26:58.862205",
      "status": "completed"
     },
     "tags": []
@@ -114,14 +114,14 @@
     }
    },
    "cell_type": "markdown",
-   "id": "d1fb5b91",
+   "id": "8b6cc460",
    "metadata": {
     "id": "f00ea7c99e44",
     "papermill": {
-     "duration": 0.01206,
-     "end_time": "2025-04-05T02:24:37.666710",
+     "duration": 0.00796,
+     "end_time": "2025-04-05T02:26:58.886113",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.654650",
+     "start_time": "2025-04-05T02:26:58.878153",
      "status": "completed"
     },
     "tags": []
@@ -138,13 +138,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "73337fd9",
+   "id": "695badf6",
    "metadata": {
     "papermill": {
-     "duration": 0.012003,
-     "end_time": "2025-04-05T02:24:37.691054",
+     "duration": 0.007925,
+     "end_time": "2025-04-05T02:26:58.901981",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.679051",
+     "start_time": "2025-04-05T02:26:58.894056",
      "status": "completed"
     },
     "tags": []
@@ -165,14 +165,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c201e492",
+   "id": "29bfadca",
    "metadata": {
     "id": "ExkOXcPxtTb5",
     "papermill": {
-     "duration": 0.012109,
-     "end_time": "2025-04-05T02:24:37.715324",
+     "duration": 0.007876,
+     "end_time": "2025-04-05T02:26:58.917851",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.703215",
+     "start_time": "2025-04-05T02:26:58.909975",
      "status": "completed"
     },
     "tags": []
@@ -185,13 +185,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ea7418c4",
+   "id": "fa6291c6",
    "metadata": {
     "papermill": {
-     "duration": 0.012081,
-     "end_time": "2025-04-05T02:24:37.739739",
+     "duration": 0.007932,
+     "end_time": "2025-04-05T02:26:58.933690",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.727658",
+     "start_time": "2025-04-05T02:26:58.925758",
      "status": "completed"
     },
     "tags": []
@@ -207,14 +207,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cde223a8",
+   "id": "3f9dde2c",
    "metadata": {
     "id": "UAjUV3BsvFXQ",
     "papermill": {
-     "duration": 0.012056,
-     "end_time": "2025-04-05T02:24:37.764018",
+     "duration": 0.007776,
+     "end_time": "2025-04-05T02:26:58.949345",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.751962",
+     "start_time": "2025-04-05T02:26:58.941569",
      "status": "completed"
     },
     "tags": []
@@ -226,20 +226,20 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "58b58a91",
+   "id": "2b055d47",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:24:37.789892Z",
-     "iopub.status.busy": "2025-04-05T02:24:37.789517Z",
-     "iopub.status.idle": "2025-04-05T02:24:57.399364Z",
-     "shell.execute_reply": "2025-04-05T02:24:57.397827Z"
+     "iopub.execute_input": "2025-04-05T02:26:58.967885Z",
+     "iopub.status.busy": "2025-04-05T02:26:58.967498Z",
+     "iopub.status.idle": "2025-04-05T02:27:11.284442Z",
+     "shell.execute_reply": "2025-04-05T02:27:11.283429Z"
     },
     "id": "NzwzJFU9LqkJ",
     "papermill": {
-     "duration": 19.625984,
-     "end_time": "2025-04-05T02:24:57.402263",
+     "duration": 12.329057,
+     "end_time": "2025-04-05T02:27:11.286368",
      "exception": false,
-     "start_time": "2025-04-05T02:24:37.776279",
+     "start_time": "2025-04-05T02:26:58.957311",
      "status": "completed"
     },
     "tags": []
@@ -252,13 +252,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ccb3eb45",
+   "id": "2eefb560",
    "metadata": {
     "papermill": {
-     "duration": 0.012195,
-     "end_time": "2025-04-05T02:24:57.426964",
+     "duration": 0.007884,
+     "end_time": "2025-04-05T02:27:11.302706",
      "exception": false,
-     "start_time": "2025-04-05T02:24:57.414769",
+     "start_time": "2025-04-05T02:27:11.294822",
      "status": "completed"
     },
     "tags": []
@@ -270,20 +270,20 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "b99dc53a",
+   "id": "0ecde6d7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:24:57.453646Z",
-     "iopub.status.busy": "2025-04-05T02:24:57.453207Z",
-     "iopub.status.idle": "2025-04-05T02:24:58.782299Z",
-     "shell.execute_reply": "2025-04-05T02:24:58.780993Z"
+     "iopub.execute_input": "2025-04-05T02:27:11.321010Z",
+     "iopub.status.busy": "2025-04-05T02:27:11.320749Z",
+     "iopub.status.idle": "2025-04-05T02:27:12.198134Z",
+     "shell.execute_reply": "2025-04-05T02:27:12.197379Z"
     },
     "id": "5DwxYIRavMST",
     "papermill": {
-     "duration": 1.345896,
-     "end_time": "2025-04-05T02:24:58.785144",
+     "duration": 0.888116,
+     "end_time": "2025-04-05T02:27:12.199744",
      "exception": false,
-     "start_time": "2025-04-05T02:24:57.439248",
+     "start_time": "2025-04-05T02:27:11.311628",
      "status": "completed"
     },
     "tags": []
@@ -298,13 +298,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5bd4400b",
+   "id": "e9ab3622",
    "metadata": {
     "papermill": {
-     "duration": 0.012111,
-     "end_time": "2025-04-05T02:24:58.809961",
+     "duration": 0.007709,
+     "end_time": "2025-04-05T02:27:12.215661",
      "exception": false,
-     "start_time": "2025-04-05T02:24:58.797850",
+     "start_time": "2025-04-05T02:27:12.207952",
      "status": "completed"
     },
     "tags": []
@@ -316,19 +316,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "d3f1a91b",
+   "id": "01817ee8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:24:58.837426Z",
-     "iopub.status.busy": "2025-04-05T02:24:58.836776Z",
-     "iopub.status.idle": "2025-04-05T02:24:59.034454Z",
-     "shell.execute_reply": "2025-04-05T02:24:59.033307Z"
+     "iopub.execute_input": "2025-04-05T02:27:12.232801Z",
+     "iopub.status.busy": "2025-04-05T02:27:12.232366Z",
+     "iopub.status.idle": "2025-04-05T02:27:12.361883Z",
+     "shell.execute_reply": "2025-04-05T02:27:12.361178Z"
     },
     "papermill": {
-     "duration": 0.214504,
-     "end_time": "2025-04-05T02:24:59.036990",
+     "duration": 0.140058,
+     "end_time": "2025-04-05T02:27:12.363526",
      "exception": false,
-     "start_time": "2025-04-05T02:24:58.822486",
+     "start_time": "2025-04-05T02:27:12.223468",
      "status": "completed"
     },
     "tags": []
@@ -346,14 +346,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "402af8e7",
+   "id": "21b1680b",
    "metadata": {
     "id": "DNEt2BCOvOJ1",
     "papermill": {
-     "duration": 0.012171,
-     "end_time": "2025-04-05T02:24:59.061699",
+     "duration": 0.007735,
+     "end_time": "2025-04-05T02:27:12.379490",
      "exception": false,
-     "start_time": "2025-04-05T02:24:59.049528",
+     "start_time": "2025-04-05T02:27:12.371755",
      "status": "completed"
     },
     "tags": []
@@ -371,20 +371,20 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "6250762b",
+   "id": "b1b74189",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:24:59.089942Z",
-     "iopub.status.busy": "2025-04-05T02:24:59.088121Z",
-     "iopub.status.idle": "2025-04-05T02:24:59.264477Z",
-     "shell.execute_reply": "2025-04-05T02:24:59.263284Z"
+     "iopub.execute_input": "2025-04-05T02:27:12.396442Z",
+     "iopub.status.busy": "2025-04-05T02:27:12.396084Z",
+     "iopub.status.idle": "2025-04-05T02:27:12.580414Z",
+     "shell.execute_reply": "2025-04-05T02:27:12.579684Z"
     },
     "id": "SHl0bkPCvayd",
     "papermill": {
-     "duration": 0.193414,
-     "end_time": "2025-04-05T02:24:59.267634",
+     "duration": 0.19495,
+     "end_time": "2025-04-05T02:27:12.582281",
      "exception": false,
-     "start_time": "2025-04-05T02:24:59.074220",
+     "start_time": "2025-04-05T02:27:12.387331",
      "status": "completed"
     },
     "tags": []
@@ -403,14 +403,14 @@
     }
    },
    "cell_type": "markdown",
-   "id": "5ab39d84",
+   "id": "8429b3bc",
    "metadata": {
     "id": "4e720472fd86",
     "papermill": {
-     "duration": 0.013469,
-     "end_time": "2025-04-05T02:24:59.295045",
+     "duration": 0.007947,
+     "end_time": "2025-04-05T02:27:12.599230",
      "exception": false,
-     "start_time": "2025-04-05T02:24:59.281576",
+     "start_time": "2025-04-05T02:27:12.591283",
      "status": "completed"
     },
     "tags": []
@@ -423,14 +423,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "72986d67",
+   "id": "93aaf18a",
    "metadata": {
     "id": "H_YXCYIKvyZJ",
     "papermill": {
-     "duration": 0.012572,
-     "end_time": "2025-04-05T02:24:59.320567",
+     "duration": 0.007794,
+     "end_time": "2025-04-05T02:27:12.615081",
      "exception": false,
-     "start_time": "2025-04-05T02:24:59.307995",
+     "start_time": "2025-04-05T02:27:12.607287",
      "status": "completed"
     },
     "tags": []
@@ -450,20 +450,20 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "6ba1e6d3",
+   "id": "354904e5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:24:59.348255Z",
-     "iopub.status.busy": "2025-04-05T02:24:59.347769Z",
-     "iopub.status.idle": "2025-04-05T02:25:02.131398Z",
-     "shell.execute_reply": "2025-04-05T02:25:02.130103Z"
+     "iopub.execute_input": "2025-04-05T02:27:12.632271Z",
+     "iopub.status.busy": "2025-04-05T02:27:12.631972Z",
+     "iopub.status.idle": "2025-04-05T02:27:15.027230Z",
+     "shell.execute_reply": "2025-04-05T02:27:15.026302Z"
     },
     "id": "BV1o0PmcvyJF",
     "papermill": {
-     "duration": 2.801461,
-     "end_time": "2025-04-05T02:25:02.134783",
+     "duration": 2.405984,
+     "end_time": "2025-04-05T02:27:15.028977",
      "exception": false,
-     "start_time": "2025-04-05T02:24:59.333322",
+     "start_time": "2025-04-05T02:27:12.622993",
      "status": "completed"
     },
     "tags": []
@@ -473,23 +473,27 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Imagine you have a really smart puppy that can learn tricks.\n",
+      "Okay, imagine you have a really, really smart puppy named Sparky. Sparky is so smart, he can learn new tricks super fast!\n",
       "\n",
-      "Normally, you have to show the puppy each trick over and over and over again until it finally gets it.\n",
+      "Normally, when you teach Sparky a trick like \"sit,\" you have to show him lots of times and give him treats.\n",
       "\n",
-      "AI is like a super-smart puppy that can learn tricks much, much faster. Instead of showing it the same trick hundreds of times, you can show it many different tricks, and it can learn how they're all similar and even come up with new tricks on its own!\n",
+      "AI is like teaching Sparky to learn tricks all by himself, without you having to show him every single time!\n",
       "\n",
-      "How does it do that? Well, it has a giant brain full of numbers, and those numbers change depending on what it sees and learns.\n",
+      "**Here's how it works:**\n",
       "\n",
-      "So, for example:\n",
+      "*   **We give Sparky (the AI) lots of examples:** Like a HUGE pile of pictures of cats and dogs.\n",
+      "*   **Sparky (the AI) looks at the examples and finds patterns:** He notices that cats usually have pointy ears and whiskers, and dogs often have floppy ears.\n",
+      "*   **Then, when you show Sparky a new picture, he can guess if it's a cat or a dog!** He uses the patterns he learned to make a smart guess.\n",
       "\n",
-      "*   **Playing games:** You can teach an AI to play a game like checkers. You let it play millions of times, and each time it wins or loses, the numbers in its brain change a little bit. Eventually, it gets so good that it can beat almost anyone!\n",
-      "*   **Recognizing cats:** You can show an AI thousands of pictures of cats, and it learns what cats usually look like (pointy ears, whiskers, etc.). Then, if you show it a new picture, it can say \"That's a cat!\"\n",
-      "*   **Talking:** You can feed an AI tons of books and websites, and it learns how people talk. Then, you can ask it a question, and it can try to answer you in a way that makes sense.\n",
+      "**So, AI is like teaching a computer (like Sparky) to learn from lots of examples so it can make smart decisions all by itself!**\n",
       "\n",
-      "It's important to remember that AI isn't really thinking like you and me. It's just using those numbers to figure out patterns and make predictions. It's really good at some things, but not so good at others.\n",
+      "Think of it like this:\n",
       "\n",
-      "So, AI is like a super-smart, learning puppy that uses numbers to figure things out! It's helping us do lots of cool things, like drive cars, translate languages, and even find new medicines.\n",
+      "*   **AI can help your phone understand what you're saying** when you use a voice command. It learned from hearing lots and lots of people talk.\n",
+      "*   **AI can help video games make the bad guys act smarter.** They learn to react to your moves!\n",
+      "*   **AI can even help doctors find illnesses quicker** by looking at lots of X-rays.\n",
+      "\n",
+      "It's like having a really smart helper that can learn from everything it sees and hears!  But it's still just a computer, not a real puppy (though some AI can do puppy-like things too!)\n",
       "\n"
      ]
     }
@@ -506,14 +510,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5061acb1",
+   "id": "41f4f29e",
    "metadata": {
     "id": "f60ed9d8ae41",
     "papermill": {
-     "duration": 0.012875,
-     "end_time": "2025-04-05T02:25:02.162585",
+     "duration": 0.00775,
+     "end_time": "2025-04-05T02:27:15.045111",
      "exception": false,
-     "start_time": "2025-04-05T02:25:02.149710",
+     "start_time": "2025-04-05T02:27:15.037361",
      "status": "completed"
     },
     "tags": []
@@ -525,20 +529,20 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "0006a5d7",
+   "id": "2a04dac9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:02.190256Z",
-     "iopub.status.busy": "2025-04-05T02:25:02.189797Z",
-     "iopub.status.idle": "2025-04-05T02:25:02.198612Z",
-     "shell.execute_reply": "2025-04-05T02:25:02.197483Z"
+     "iopub.execute_input": "2025-04-05T02:27:15.062127Z",
+     "iopub.status.busy": "2025-04-05T02:27:15.061841Z",
+     "iopub.status.idle": "2025-04-05T02:27:15.067688Z",
+     "shell.execute_reply": "2025-04-05T02:27:15.066989Z"
     },
     "id": "c933e5e460a5",
     "papermill": {
-     "duration": 0.025602,
-     "end_time": "2025-04-05T02:25:02.201060",
+     "duration": 0.016037,
+     "end_time": "2025-04-05T02:27:15.069044",
      "exception": false,
-     "start_time": "2025-04-05T02:25:02.175458",
+     "start_time": "2025-04-05T02:27:15.053007",
      "status": "completed"
     },
     "tags": []
@@ -547,23 +551,27 @@
     {
      "data": {
       "text/markdown": [
-       "Imagine you have a really smart puppy that can learn tricks.\n",
+       "Okay, imagine you have a really, really smart puppy named Sparky. Sparky is so smart, he can learn new tricks super fast!\n",
        "\n",
-       "Normally, you have to show the puppy each trick over and over and over again until it finally gets it.\n",
+       "Normally, when you teach Sparky a trick like \"sit,\" you have to show him lots of times and give him treats.\n",
        "\n",
-       "AI is like a super-smart puppy that can learn tricks much, much faster. Instead of showing it the same trick hundreds of times, you can show it many different tricks, and it can learn how they're all similar and even come up with new tricks on its own!\n",
+       "AI is like teaching Sparky to learn tricks all by himself, without you having to show him every single time!\n",
        "\n",
-       "How does it do that? Well, it has a giant brain full of numbers, and those numbers change depending on what it sees and learns.\n",
+       "**Here's how it works:**\n",
        "\n",
-       "So, for example:\n",
+       "*   **We give Sparky (the AI) lots of examples:** Like a HUGE pile of pictures of cats and dogs.\n",
+       "*   **Sparky (the AI) looks at the examples and finds patterns:** He notices that cats usually have pointy ears and whiskers, and dogs often have floppy ears.\n",
+       "*   **Then, when you show Sparky a new picture, he can guess if it's a cat or a dog!** He uses the patterns he learned to make a smart guess.\n",
        "\n",
-       "*   **Playing games:** You can teach an AI to play a game like checkers. You let it play millions of times, and each time it wins or loses, the numbers in its brain change a little bit. Eventually, it gets so good that it can beat almost anyone!\n",
-       "*   **Recognizing cats:** You can show an AI thousands of pictures of cats, and it learns what cats usually look like (pointy ears, whiskers, etc.). Then, if you show it a new picture, it can say \"That's a cat!\"\n",
-       "*   **Talking:** You can feed an AI tons of books and websites, and it learns how people talk. Then, you can ask it a question, and it can try to answer you in a way that makes sense.\n",
+       "**So, AI is like teaching a computer (like Sparky) to learn from lots of examples so it can make smart decisions all by itself!**\n",
        "\n",
-       "It's important to remember that AI isn't really thinking like you and me. It's just using those numbers to figure out patterns and make predictions. It's really good at some things, but not so good at others.\n",
+       "Think of it like this:\n",
        "\n",
-       "So, AI is like a super-smart, learning puppy that uses numbers to figure things out! It's helping us do lots of cool things, like drive cars, translate languages, and even find new medicines.\n"
+       "*   **AI can help your phone understand what you're saying** when you use a voice command. It learned from hearing lots and lots of people talk.\n",
+       "*   **AI can help video games make the bad guys act smarter.** They learn to react to your moves!\n",
+       "*   **AI can even help doctors find illnesses quicker** by looking at lots of X-rays.\n",
+       "\n",
+       "It's like having a really smart helper that can learn from everything it sees and hears!  But it's still just a computer, not a real puppy (though some AI can do puppy-like things too!)\n"
       ],
       "text/plain": [
        "<IPython.core.display.Markdown object>"
@@ -580,14 +588,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ba6fdc07",
+   "id": "9abdaf37",
    "metadata": {
     "id": "byx0pT9ZMW2Q",
     "papermill": {
-     "duration": 0.012904,
-     "end_time": "2025-04-05T02:25:02.227262",
+     "duration": 0.007981,
+     "end_time": "2025-04-05T02:27:15.085428",
      "exception": false,
-     "start_time": "2025-04-05T02:25:02.214358",
+     "start_time": "2025-04-05T02:27:15.077447",
      "status": "completed"
     },
     "tags": []
@@ -601,20 +609,20 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "8abf49d3",
+   "id": "31dcd774",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:02.255320Z",
-     "iopub.status.busy": "2025-04-05T02:25:02.254841Z",
-     "iopub.status.idle": "2025-04-05T02:25:02.792788Z",
-     "shell.execute_reply": "2025-04-05T02:25:02.791260Z"
+     "iopub.execute_input": "2025-04-05T02:27:15.102892Z",
+     "iopub.status.busy": "2025-04-05T02:27:15.102579Z",
+     "iopub.status.idle": "2025-04-05T02:27:15.776814Z",
+     "shell.execute_reply": "2025-04-05T02:27:15.775918Z"
     },
     "id": "lV_S5ZL5MidD",
     "papermill": {
-     "duration": 0.554858,
-     "end_time": "2025-04-05T02:25:02.795073",
+     "duration": 0.684704,
+     "end_time": "2025-04-05T02:27:15.778230",
      "exception": false,
-     "start_time": "2025-04-05T02:25:02.240215",
+     "start_time": "2025-04-05T02:27:15.093526",
      "status": "completed"
     },
     "tags": []
@@ -624,7 +632,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Nice to meet you, Zlork! It's a unique name. I am happy to help you with anything I can. What can I do for you today?\n",
+      "Greetings, Zlork! It's nice to meet you. How can I help you today?\n",
       "\n"
      ]
     }
@@ -638,20 +646,20 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "79453872",
+   "id": "1683a638",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:02.825547Z",
-     "iopub.status.busy": "2025-04-05T02:25:02.825108Z",
-     "iopub.status.idle": "2025-04-05T02:25:04.344650Z",
-     "shell.execute_reply": "2025-04-05T02:25:04.343205Z"
+     "iopub.execute_input": "2025-04-05T02:27:15.795963Z",
+     "iopub.status.busy": "2025-04-05T02:27:15.795684Z",
+     "iopub.status.idle": "2025-04-05T02:27:17.110230Z",
+     "shell.execute_reply": "2025-04-05T02:27:17.109166Z"
     },
     "id": "7b0372c3c64a",
     "papermill": {
-     "duration": 1.537656,
-     "end_time": "2025-04-05T02:25:04.346990",
+     "duration": 1.325161,
+     "end_time": "2025-04-05T02:27:17.111879",
      "exception": false,
-     "start_time": "2025-04-05T02:25:02.809334",
+     "start_time": "2025-04-05T02:27:15.786718",
      "status": "completed"
     },
     "tags": []
@@ -661,19 +669,15 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Okay, here's something interesting about dinosaurs:\n",
+      "Okay, here's a fascinating fact about dinosaurs that you might not know:\n",
       "\n",
-      "While we often think of dinosaurs as giant reptiles, the **closest living relatives of dinosaurs are actually birds!**\n",
+      "**Many dinosaurs likely had feathers, even some of the largest and most fearsome ones!**\n",
       "\n",
-      "This isn't just a casual connection. Scientists have found overwhelming evidence that birds evolved directly from a group of small, feathered theropod dinosaurs during the late Jurassic period.\n",
+      "While we often picture dinosaurs as scaly reptiles, the fossil record shows that feathers were much more widespread than previously thought. Some dinosaurs were completely covered in them, like modern birds. Others had only patches of feathers or quills, possibly for display or insulation.\n",
       "\n",
-      "Think about it:\n",
+      "This discovery is particularly interesting because it blurs the line between dinosaurs and birds even further. It supports the widely accepted theory that birds are direct descendants of small, feathered dinosaurs!\n",
       "\n",
-      "*   **Feathers:** We've discovered fossil evidence of feathered dinosaurs, some of which couldn't even fly, suggesting feathers initially evolved for insulation or display.\n",
-      "*   **Skeletal Similarities:** Birds and theropods share similar skeletal features like hollow bones, a wishbone (furcula), and a three-fingered hand.\n",
-      "*   **Nesting Behavior:** Fossil evidence indicates some dinosaurs built nests and brooded their eggs, just like birds.\n",
-      "\n",
-      "So, the next time you see a robin hopping around, remember that it's a direct descendant of a dinosaur! Pretty cool, right?\n",
+      "So, next time you think of a T-Rex, imagine it potentially sporting some feathery accents!\n",
       "\n"
      ]
     }
@@ -685,13 +689,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4db538fa",
+   "id": "2f2da3c9",
    "metadata": {
     "papermill": {
-     "duration": 0.012429,
-     "end_time": "2025-04-05T02:25:04.372971",
+     "duration": 0.008048,
+     "end_time": "2025-04-05T02:27:17.128561",
      "exception": false,
-     "start_time": "2025-04-05T02:25:04.360542",
+     "start_time": "2025-04-05T02:27:17.120513",
      "status": "completed"
     },
     "tags": []
@@ -704,20 +708,20 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "be2f2ec8",
+   "id": "632ae2ca",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:04.400387Z",
-     "iopub.status.busy": "2025-04-05T02:25:04.399964Z",
-     "iopub.status.idle": "2025-04-05T02:25:04.813392Z",
-     "shell.execute_reply": "2025-04-05T02:25:04.812017Z"
+     "iopub.execute_input": "2025-04-05T02:27:17.146143Z",
+     "iopub.status.busy": "2025-04-05T02:27:17.145858Z",
+     "iopub.status.idle": "2025-04-05T02:27:17.412732Z",
+     "shell.execute_reply": "2025-04-05T02:27:17.411681Z"
     },
     "id": "d3f9591392a7",
     "papermill": {
-     "duration": 0.430222,
-     "end_time": "2025-04-05T02:25:04.815886",
+     "duration": 0.277652,
+     "end_time": "2025-04-05T02:27:17.414419",
      "exception": false,
-     "start_time": "2025-04-05T02:25:04.385664",
+     "start_time": "2025-04-05T02:27:17.136767",
      "status": "completed"
     },
     "tags": []
@@ -727,7 +731,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Yes, I remember your name is Zlork.\n",
+      "Yes, I do. Your name is Zlork.\n",
       "\n"
      ]
     }
@@ -739,14 +743,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d898ad43",
+   "id": "148af361",
    "metadata": {
     "id": "2KAjpr1200sW",
     "papermill": {
-     "duration": 0.01312,
-     "end_time": "2025-04-05T02:25:04.842514",
+     "duration": 0.008169,
+     "end_time": "2025-04-05T02:27:17.431403",
      "exception": false,
-     "start_time": "2025-04-05T02:25:04.829394",
+     "start_time": "2025-04-05T02:27:17.423234",
      "status": "completed"
     },
     "tags": []
@@ -762,20 +766,20 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "b66fb557",
+   "id": "4eb7272e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:04.871377Z",
-     "iopub.status.busy": "2025-04-05T02:25:04.870892Z",
-     "iopub.status.idle": "2025-04-05T02:25:04.940989Z",
-     "shell.execute_reply": "2025-04-05T02:25:04.939613Z"
+     "iopub.execute_input": "2025-04-05T02:27:17.450727Z",
+     "iopub.status.busy": "2025-04-05T02:27:17.450478Z",
+     "iopub.status.idle": "2025-04-05T02:27:17.474222Z",
+     "shell.execute_reply": "2025-04-05T02:27:17.473579Z"
     },
     "id": "uUUZa2uq2jDm",
     "papermill": {
-     "duration": 0.087548,
-     "end_time": "2025-04-05T02:25:04.944020",
+     "duration": 0.034653,
+     "end_time": "2025-04-05T02:27:17.475624",
      "exception": false,
-     "start_time": "2025-04-05T02:25:04.856472",
+     "start_time": "2025-04-05T02:27:17.440971",
      "status": "completed"
     },
     "tags": []
@@ -841,14 +845,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8b1e5fdf",
+   "id": "c5e521fc",
    "metadata": {
     "id": "rN49kSI54R1v",
     "papermill": {
-     "duration": 0.013129,
-     "end_time": "2025-04-05T02:25:04.971007",
+     "duration": 0.008421,
+     "end_time": "2025-04-05T02:27:17.493017",
      "exception": false,
-     "start_time": "2025-04-05T02:25:04.957878",
+     "start_time": "2025-04-05T02:27:17.484596",
      "status": "completed"
     },
     "tags": []
@@ -860,20 +864,20 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "a0fe14fc",
+   "id": "072240b8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:04.999896Z",
-     "iopub.status.busy": "2025-04-05T02:25:04.999511Z",
-     "iopub.status.idle": "2025-04-05T02:25:05.155266Z",
-     "shell.execute_reply": "2025-04-05T02:25:05.153376Z"
+     "iopub.execute_input": "2025-04-05T02:27:17.511005Z",
+     "iopub.status.busy": "2025-04-05T02:27:17.510794Z",
+     "iopub.status.idle": "2025-04-05T02:27:17.534908Z",
+     "shell.execute_reply": "2025-04-05T02:27:17.533914Z"
     },
     "id": "k7JJ1K6j4Rl8",
     "papermill": {
-     "duration": 0.174811,
-     "end_time": "2025-04-05T02:25:05.159313",
+     "duration": 0.034831,
+     "end_time": "2025-04-05T02:27:17.536369",
      "exception": false,
-     "start_time": "2025-04-05T02:25:04.984502",
+     "start_time": "2025-04-05T02:27:17.501538",
      "status": "completed"
     },
     "tags": []
@@ -905,14 +909,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7014c862",
+   "id": "70ff30d7",
    "metadata": {
     "id": "5rU_UBlZdooM",
     "papermill": {
-     "duration": 0.021099,
-     "end_time": "2025-04-05T02:25:05.199141",
+     "duration": 0.009324,
+     "end_time": "2025-04-05T02:27:17.554770",
      "exception": false,
-     "start_time": "2025-04-05T02:25:05.178042",
+     "start_time": "2025-04-05T02:27:17.545446",
      "status": "completed"
     },
     "tags": []
@@ -924,14 +928,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "fda054d3",
+   "id": "ed5865d5",
    "metadata": {
     "id": "G7NfEizeipbW",
     "papermill": {
-     "duration": 0.013093,
-     "end_time": "2025-04-05T02:25:05.230976",
+     "duration": 0.008271,
+     "end_time": "2025-04-05T02:27:17.572037",
      "exception": false,
-     "start_time": "2025-04-05T02:25:05.217883",
+     "start_time": "2025-04-05T02:27:17.563766",
      "status": "completed"
     },
     "tags": []
@@ -947,20 +951,20 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "37d45f5e",
+   "id": "941e7487",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:05.259049Z",
-     "iopub.status.busy": "2025-04-05T02:25:05.258618Z",
-     "iopub.status.idle": "2025-04-05T02:25:06.681643Z",
-     "shell.execute_reply": "2025-04-05T02:25:06.680390Z"
+     "iopub.execute_input": "2025-04-05T02:27:17.590526Z",
+     "iopub.status.busy": "2025-04-05T02:27:17.590222Z",
+     "iopub.status.idle": "2025-04-05T02:27:18.954459Z",
+     "shell.execute_reply": "2025-04-05T02:27:18.953458Z"
     },
     "id": "qVf23JsIi9ma",
     "papermill": {
-     "duration": 1.439895,
-     "end_time": "2025-04-05T02:25:06.683978",
+     "duration": 1.375355,
+     "end_time": "2025-04-05T02:27:18.955909",
      "exception": false,
-     "start_time": "2025-04-05T02:25:05.244083",
+     "start_time": "2025-04-05T02:27:17.580554",
      "status": "completed"
     },
     "tags": []
@@ -970,11 +974,11 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "## The Humble Olive: A Cornerstone of Modern Society\n",
+      "## The Olive Branch Reaching Out: The Enduring Importance of Olives in Modern Society\n",
       "\n",
-      "The olive, a small, unassuming fruit often overlooked amidst the plethora of readily available foodstuffs, wields a profound and multifaceted influence on modern society. More than just a garnish or a Mediterranean staple, the olive and its derived products contribute significantly to our health, economy, culture, and even the environment. Its importance, rooted in a rich history spanning millennia, continues to evolve and adapt to the demands of the 21st century, solidifying its position as a cornerstone of modern life.\n",
+      "The olive, a humble fruit from the Mediterranean basin, has a history stretching back millennia. From ancient civilizations to the modern day, the olive tree and its fruits have held a position of immense importance, influencing culture, economy, cuisine, and even medicine. While the world has changed beyond recognition since the olive's initial cultivation, its importance remains surprisingly relevant in modern society, contributing significantly to a diverse array of sectors and continuing to shape our world in subtle yet profound ways.\n",
       "\n",
-      "One of the most prominent contributions of the olive lies in its health benefits. Olive oil, particularly extra virgin olive oil (EVOO), is a cornerstone of the Mediterranean diet, celebrated for its positive impact on cardiovascular health. Rich in monounsaturated fats, specifically oleic acid, EVOO helps lower LDL cholesterol (the \"bad\" cholesterol) while raising HDL cholesterol (the \"good\" cholesterol), thereby reducing the risk of heart disease and stroke.\n"
+      "One of the most immediate and palpable impacts of olives lies in the culinary realm. Olive oil, pressed from the fruit, has become a cornerstone of healthy and flavorful cuisine across the globe. No longer confined to the Mediterranean diet, its virtues are celebrated worldwide, lauded for its heart-healthy monounsaturated fats, rich antioxidants, and distinctive flavor profiles. Modern chefs and home cooks alike recognize the versatility of olive oil, using it\n"
      ]
     }
    ],
@@ -994,20 +998,20 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "230d20fd",
+   "id": "6ec3b070",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:06.713079Z",
-     "iopub.status.busy": "2025-04-05T02:25:06.712687Z",
-     "iopub.status.idle": "2025-04-05T02:25:08.068876Z",
-     "shell.execute_reply": "2025-04-05T02:25:08.067576Z"
+     "iopub.execute_input": "2025-04-05T02:27:18.974502Z",
+     "iopub.status.busy": "2025-04-05T02:27:18.974234Z",
+     "iopub.status.idle": "2025-04-05T02:27:19.908814Z",
+     "shell.execute_reply": "2025-04-05T02:27:19.907816Z"
     },
     "id": "W-3kR2F5kdMR",
     "papermill": {
-     "duration": 1.374319,
-     "end_time": "2025-04-05T02:25:08.071952",
+     "duration": 0.945562,
+     "end_time": "2025-04-05T02:27:19.910345",
      "exception": false,
-     "start_time": "2025-04-05T02:25:06.697633",
+     "start_time": "2025-04-05T02:27:18.964783",
      "status": "completed"
     },
     "tags": []
@@ -1017,15 +1021,20 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "From ancient groves, a legacy untold,\n",
-      "The humble olive, green and black and gold.\n",
-      "In salads tossed, a savory delight,\n",
-      "Or pressed to oil, a culinary light.\n",
+      "From sun-drenched groves, a humble fruit,\n",
+      "The olive comes, in soil and root.\n",
+      "Pressed into oil, a golden stream,\n",
+      "It fuels our bodies, fuels our dream.\n",
       "\n",
-      "On pizzas strewn, a Mediterranean grace,\n",
-      "A tapenade, a smile upon each face.\n",
-      "A symbol peace, a healthy, vibrant hue,\n",
-      "The modern olive, loved by me and you.\n",
+      "On pizzas spread, in salads bright,\n",
+      "A salty burst, a pure delight.\n",
+      "In tapenade, a savory spread,\n",
+      "It graces tables, daily bread.\n",
+      "\n",
+      "A symbol old, of peace and grace,\n",
+      "The olive holds a valued place.\n",
+      "So raise a glass, and let us see,\n",
+      "The olive's modern victory.\n",
       "\n"
      ]
     }
@@ -1041,14 +1050,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f4d7c65c",
+   "id": "6c746803",
    "metadata": {
     "id": "3ZhDSLB6lqqB",
     "papermill": {
-     "duration": 0.012971,
-     "end_time": "2025-04-05T02:25:08.098578",
+     "duration": 0.008355,
+     "end_time": "2025-04-05T02:27:19.927560",
      "exception": false,
-     "start_time": "2025-04-05T02:25:08.085607",
+     "start_time": "2025-04-05T02:27:19.919205",
      "status": "completed"
     },
     "tags": []
@@ -1059,14 +1068,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e60bae5c",
+   "id": "d3e48b01",
    "metadata": {
     "id": "alx-WaAvir_9",
     "papermill": {
-     "duration": 0.013197,
-     "end_time": "2025-04-05T02:25:08.124950",
+     "duration": 0.008333,
+     "end_time": "2025-04-05T02:27:19.944309",
      "exception": false,
-     "start_time": "2025-04-05T02:25:08.111753",
+     "start_time": "2025-04-05T02:27:19.935976",
      "status": "completed"
     },
     "tags": []
@@ -1082,20 +1091,20 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "4401b64e",
+   "id": "fc72919a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:08.152798Z",
-     "iopub.status.busy": "2025-04-05T02:25:08.152455Z",
-     "iopub.status.idle": "2025-04-05T02:25:10.140403Z",
-     "shell.execute_reply": "2025-04-05T02:25:10.139333Z"
+     "iopub.execute_input": "2025-04-05T02:27:19.962390Z",
+     "iopub.status.busy": "2025-04-05T02:27:19.962138Z",
+     "iopub.status.idle": "2025-04-05T02:27:21.114908Z",
+     "shell.execute_reply": "2025-04-05T02:27:21.114104Z"
     },
     "id": "SHraGMzqnZqt",
     "papermill": {
-     "duration": 2.004848,
-     "end_time": "2025-04-05T02:25:10.142790",
+     "duration": 1.163624,
+     "end_time": "2025-04-05T02:27:21.116423",
      "exception": false,
-     "start_time": "2025-04-05T02:25:08.137942",
+     "start_time": "2025-04-05T02:27:19.952799",
      "status": "completed"
     },
     "tags": []
@@ -1105,15 +1114,15 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Teal\n",
+      "Mauve.\n",
       " -------------------------\n",
-      "Magenta.\n",
+      "Magenta\n",
+      " -------------------------\n",
+      "Magenta\n",
       " -------------------------\n",
       "Azure\n",
       " -------------------------\n",
-      "Azure.\n",
-      " -------------------------\n",
-      "Magenta.\n",
+      "Turquoise\n",
       " -------------------------\n"
      ]
     }
@@ -1134,14 +1143,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c50c4dbd",
+   "id": "05acf153",
    "metadata": {
     "id": "z3J4pCTuof7e",
     "papermill": {
-     "duration": 0.013115,
-     "end_time": "2025-04-05T02:25:10.169753",
+     "duration": 0.008487,
+     "end_time": "2025-04-05T02:27:21.134043",
      "exception": false,
-     "start_time": "2025-04-05T02:25:10.156638",
+     "start_time": "2025-04-05T02:27:21.125556",
      "status": "completed"
     },
     "tags": []
@@ -1153,20 +1162,20 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "91726718",
+   "id": "40a08687",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:10.198035Z",
-     "iopub.status.busy": "2025-04-05T02:25:10.197644Z",
-     "iopub.status.idle": "2025-04-05T02:25:12.243762Z",
-     "shell.execute_reply": "2025-04-05T02:25:12.242322Z"
+     "iopub.execute_input": "2025-04-05T02:27:21.152193Z",
+     "iopub.status.busy": "2025-04-05T02:27:21.151951Z",
+     "iopub.status.idle": "2025-04-05T02:27:22.297924Z",
+     "shell.execute_reply": "2025-04-05T02:27:22.296987Z"
     },
     "id": "clymkWv-PfUZ",
     "papermill": {
-     "duration": 2.063166,
-     "end_time": "2025-04-05T02:25:12.246150",
+     "duration": 1.156787,
+     "end_time": "2025-04-05T02:27:22.299380",
      "exception": false,
-     "start_time": "2025-04-05T02:25:10.182984",
+     "start_time": "2025-04-05T02:27:21.142593",
      "status": "completed"
     },
     "tags": []
@@ -1204,14 +1213,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2dd3c214",
+   "id": "6c968002",
    "metadata": {
     "id": "St5nt3vzitsZ",
     "papermill": {
-     "duration": 0.014153,
-     "end_time": "2025-04-05T02:25:12.274284",
+     "duration": 0.009249,
+     "end_time": "2025-04-05T02:27:22.318237",
      "exception": false,
-     "start_time": "2025-04-05T02:25:12.260131",
+     "start_time": "2025-04-05T02:27:22.308988",
      "status": "completed"
     },
     "tags": []
@@ -1232,20 +1241,20 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "4e01ccfd",
+   "id": "90d084a9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:12.304711Z",
-     "iopub.status.busy": "2025-04-05T02:25:12.303673Z",
-     "iopub.status.idle": "2025-04-05T02:25:25.149781Z",
-     "shell.execute_reply": "2025-04-05T02:25:25.148482Z"
+     "iopub.execute_input": "2025-04-05T02:27:22.337354Z",
+     "iopub.status.busy": "2025-04-05T02:27:22.337086Z",
+     "iopub.status.idle": "2025-04-05T02:27:27.689510Z",
+     "shell.execute_reply": "2025-04-05T02:27:27.688580Z"
     },
     "id": "lPlzpEavUV8F",
     "papermill": {
-     "duration": 12.864571,
-     "end_time": "2025-04-05T02:25:25.152905",
+     "duration": 5.363759,
+     "end_time": "2025-04-05T02:27:27.690913",
      "exception": false,
-     "start_time": "2025-04-05T02:25:12.288334",
+     "start_time": "2025-04-05T02:27:22.327154",
      "status": "completed"
     },
     "tags": []
@@ -1255,23 +1264,41 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Jasper was no ordinary tabby. While other cats dreamt of sunbeams and tuna, Jasper dreamt of the Whispering Woods. He'd heard the wind carry tales of glistening streams, trees that kissed the clouds, and creatures unseen in his quiet suburban garden. Tonight, under the cloak of a velvet moon, Jasper was going.\n",
+      "Clementine was, in her own opinion, a creature of exquisite taste and refined habits. Her days consisted of sunbathing on the plush velvet chaise lounge, demanding perfectly portioned salmon pâté, and batting at dust motes that dared to float through her air space. Adventure was for alley cats, she sniffed internally.\n",
       "\n",
-      "He slipped through the half-open gate, a ginger shadow against the inky sky. The familiar scent of roses and petunias faded, replaced by the earthy perfume of damp soil and decaying leaves. The Whispering Woods loomed, a dark, inviting maw promising both wonder and peril.\n",
+      "But Clementine was, also, undeniably, bored.\n",
       "\n",
-      "His first challenge arrived in the form of a babbling brook, too wide to leap. Jasper, never one to shy from a challenge, followed the bank, his whiskers twitching, until he found a fallen log, slick with moss. One precarious step at a time, he balanced, his tail a fluffy counterweight against the rushing water.\n",
+      "One particularly dreary Tuesday, while glaring at the perpetually smirking porcelain cat on the mantelpiece, a draft slithered through the French doors leading to the garden. The scent of rain-kissed earth and something wild, something unknown, tickled her whiskers. Curiosity, a creature even stronger than her disdain for mud, pricked at her fur.\n",
       "\n",
-      "Deeper within the woods, the trees grew taller, their branches laced together like grasping fingers. Fireflies blinked like scattered jewels, guiding him through the deepening darkness. He encountered a grumpy badger who grumbled about noisy trespassers, a family of hedgehogs foraging for slugs, and a wise old owl who hooted cryptic riddles that Jasper, quite frankly, didn't understand.\n",
+      "Before she could second-guess herself, Clementine slipped through the crack and into the overgrown wonderland.\n",
       "\n",
-      "He pressed on, drawn by a melody he couldn't quite place. It was a low, humming sound, like the wind sighing through a hollow log. Following the sound, he stumbled upon a clearing bathed in an ethereal glow. In the center stood a circle of ancient trees, their roots intertwined around a crystal-clear pool. The humming came from the pool, a resonating hum that seemed to vibrate in his very bones.\n",
+      "The garden was a revelation. Towering sunflowers, their faces heavy with rain, loomed over her like benevolent giants. Fat bumblebees buzzed amongst the honeysuckle, their fuzzy bodies dusted with pollen. The air thrummed with a life Clementine had only glimpsed through the safety of the windowpane.\n",
       "\n",
-      "Hesitantly, Jasper dipped a paw into the water. It was cool and strangely alive. He lapped at it, and suddenly, the world bloomed with color. He saw the intricate patterns on butterfly wings, heard the secret conversations of ants beneath his paws, and felt the ancient wisdom held within the bark of the trees. The Whispering Woods whispered its secrets to him, a symphony of life unveiled.\n",
+      "She cautiously padded along a mossy path, the damp earth surprisingly pleasant on her paws. She stalked a plump robin with the grace of a miniature panther, only to be startled by a flash of iridescent blue. A dragonfly, its wings like stained glass, hovered before her, its enormous eyes seemingly judging her very soul. Clementine, humbled, sat back on her haunches.\n",
       "\n",
-      "He spent hours in that magical clearing, mesmerized by the pool's power. But as the first hint of dawn painted the sky, a pang of homesickness tugged at his heart. He knew he couldn't stay forever.\n",
+      "Her adventure truly began when she stumbled upon a crumbling brick wall, half-hidden by ivy. A tiny hole, no bigger than her head, beckoned from the base. It smelled of damp earth, forgotten things, and…mice.\n",
       "\n",
-      "With a final, grateful dip of his head, Jasper turned and retraced his steps, carrying the memory of the Whispering Woods within him. He slipped back through the gate just as the sun peeked over the horizon.\n",
+      "For a cat of Clementine’s refined sensibilities, the call of a mouse was a primal force. She hesitated for a moment, considering the dirt that might cling to her pristine fur. Then, with a determined flick of her tail, she squeezed through the hole.\n",
       "\n",
-      "Back in his garden, bathed in the golden light, Jasper felt different. He was no longer just a suburban tabby. He was Jasper, the adventurer, the listener, the keeper of secrets. He may return to the Whispering Woods, but for now, he knew that even in the smallest garden, magic could be found, if you knew where to look, and were brave enough to listen. He curled up on his favorite sunbeam, purring a low, contented hum, a silent echo of the whispering woods. His adventure had just begun.\n",
+      "The passage opened into a forgotten shed, cobwebs draped like macabre tapestries. Dust motes danced in the slivers of sunlight that pierced through the cracks in the roof. The air was thick with the scent of sawdust and decay. And there, in the corner, a family of mice scurried around a discarded bag of sunflower seeds.\n",
+      "\n",
+      "Clementine stalked. She pounced. She missed. The mice scattered, squeaking in terror. She tried again. And again.\n",
+      "\n",
+      "It was clumsy, undignified, and utterly exhilarating.\n",
+      "\n",
+      "Finally, with a triumphant flick of her tail, she cornered a particularly plump specimen. She held it gently in her jaws, not to kill, but to savor the feeling of the chase, the raw, untamed instinct that had suddenly awakened within her.\n",
+      "\n",
+      "Then, she released it.\n",
+      "\n",
+      "The mouse, dazed but alive, scurried away. Clementine watched it go, a strange warmth spreading through her chest.\n",
+      "\n",
+      "She emerged from the shed, covered in cobwebs and dirt, a far cry from the pristine feline who had entered the garden hours before. The sun was beginning to set, painting the sky in hues of orange and purple.\n",
+      "\n",
+      "As she padded back towards the French doors, she noticed something she hadn't seen before: the intricate beauty of a spiderweb strung between two rose bushes, the dewdrops clinging to its delicate strands like tiny diamonds.\n",
+      "\n",
+      "Back on her velvet chaise lounge, meticulously grooming the dirt from her fur, Clementine didn't feel the same. The salmon pâté tasted richer, the sunlight warmer. She even, dare she say, felt a hint of affection for the perpetually smirking porcelain cat on the mantelpiece.\n",
+      "\n",
+      "Clementine, the pampered house cat, had discovered something new: the thrill of adventure, the satisfaction of instinct, and the profound beauty of the world beyond her velvet walls. And she knew, with a certainty that purred deep in her belly, that this was just the beginning. The garden, after all, held endless possibilities. And Clementine, it seemed, was ready to explore them all.\n",
       "\n"
      ]
     }
@@ -1294,14 +1321,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "86ff4646",
+   "id": "d2d71fc8",
    "metadata": {
     "id": "rMrYs1koY6DX",
     "papermill": {
-     "duration": 0.013864,
-     "end_time": "2025-04-05T02:25:25.182370",
+     "duration": 0.008952,
+     "end_time": "2025-04-05T02:27:27.709318",
      "exception": false,
-     "start_time": "2025-04-05T02:25:25.168506",
+     "start_time": "2025-04-05T02:27:27.700366",
      "status": "completed"
     },
     "tags": []
@@ -1314,14 +1341,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "253d4caf",
+   "id": "4bfd05f3",
    "metadata": {
     "id": "hhj_tQidZJP7",
     "papermill": {
-     "duration": 0.014981,
-     "end_time": "2025-04-05T02:25:25.211957",
+     "duration": 0.008717,
+     "end_time": "2025-04-05T02:27:27.726808",
      "exception": false,
-     "start_time": "2025-04-05T02:25:25.196976",
+     "start_time": "2025-04-05T02:27:27.718091",
      "status": "completed"
     },
     "tags": []
@@ -1341,20 +1368,20 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "573451df",
+   "id": "ffcea33b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:25.243979Z",
-     "iopub.status.busy": "2025-04-05T02:25:25.243565Z",
-     "iopub.status.idle": "2025-04-05T02:25:25.582086Z",
-     "shell.execute_reply": "2025-04-05T02:25:25.581000Z"
+     "iopub.execute_input": "2025-04-05T02:27:27.745925Z",
+     "iopub.status.busy": "2025-04-05T02:27:27.745592Z",
+     "iopub.status.idle": "2025-04-05T02:27:28.077527Z",
+     "shell.execute_reply": "2025-04-05T02:27:28.076681Z"
     },
     "id": "1_t-cwnDZzbH",
     "papermill": {
-     "duration": 0.357898,
-     "end_time": "2025-04-05T02:25:25.584874",
+     "duration": 0.343328,
+     "end_time": "2025-04-05T02:27:28.079057",
      "exception": false,
-     "start_time": "2025-04-05T02:25:25.226976",
+     "start_time": "2025-04-05T02:27:27.735729",
      "status": "completed"
     },
     "tags": []
@@ -1392,14 +1419,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d1e1103d",
+   "id": "05e97032",
    "metadata": {
     "id": "3b5568bdeb11",
     "papermill": {
-     "duration": 0.014293,
-     "end_time": "2025-04-05T02:25:25.614157",
+     "duration": 0.008872,
+     "end_time": "2025-04-05T02:27:28.097324",
      "exception": false,
-     "start_time": "2025-04-05T02:25:25.599864",
+     "start_time": "2025-04-05T02:27:28.088452",
      "status": "completed"
     },
     "tags": []
@@ -1415,20 +1442,20 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "0be11340",
+   "id": "fff45c6a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:25.646076Z",
-     "iopub.status.busy": "2025-04-05T02:25:25.645643Z",
-     "iopub.status.idle": "2025-04-05T02:25:26.053027Z",
-     "shell.execute_reply": "2025-04-05T02:25:26.052023Z"
+     "iopub.execute_input": "2025-04-05T02:27:28.116369Z",
+     "iopub.status.busy": "2025-04-05T02:27:28.116078Z",
+     "iopub.status.idle": "2025-04-05T02:27:28.557047Z",
+     "shell.execute_reply": "2025-04-05T02:27:28.556310Z"
     },
     "id": "ad118a56c598",
     "papermill": {
-     "duration": 0.426132,
-     "end_time": "2025-04-05T02:25:26.055171",
+     "duration": 0.452645,
+     "end_time": "2025-04-05T02:27:28.558899",
      "exception": false,
-     "start_time": "2025-04-05T02:25:25.629039",
+     "start_time": "2025-04-05T02:27:28.106254",
      "status": "completed"
     },
     "tags": []
@@ -1464,13 +1491,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ff114f5f",
+   "id": "3ccaef94",
    "metadata": {
     "papermill": {
-     "duration": 0.014131,
-     "end_time": "2025-04-05T02:25:26.083914",
+     "duration": 0.009017,
+     "end_time": "2025-04-05T02:27:28.577499",
      "exception": false,
-     "start_time": "2025-04-05T02:25:26.069783",
+     "start_time": "2025-04-05T02:27:28.568482",
      "status": "completed"
     },
     "tags": []
@@ -1482,19 +1509,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "daae6df7",
+   "id": "6aff7ce9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:26.115634Z",
-     "iopub.status.busy": "2025-04-05T02:25:26.114765Z",
-     "iopub.status.idle": "2025-04-05T02:25:26.120314Z",
-     "shell.execute_reply": "2025-04-05T02:25:26.119355Z"
+     "iopub.execute_input": "2025-04-05T02:27:28.596911Z",
+     "iopub.status.busy": "2025-04-05T02:27:28.596610Z",
+     "iopub.status.idle": "2025-04-05T02:27:28.600604Z",
+     "shell.execute_reply": "2025-04-05T02:27:28.599845Z"
     },
     "papermill": {
-     "duration": 0.023594,
-     "end_time": "2025-04-05T02:25:26.122545",
+     "duration": 0.015443,
+     "end_time": "2025-04-05T02:27:28.602117",
      "exception": false,
-     "start_time": "2025-04-05T02:25:26.098951",
+     "start_time": "2025-04-05T02:27:28.586674",
      "status": "completed"
     },
     "tags": []
@@ -1517,14 +1544,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6c93ac66",
+   "id": "062c78f9",
    "metadata": {
     "id": "0udiSwNbv45W",
     "papermill": {
-     "duration": 0.014983,
-     "end_time": "2025-04-05T02:25:26.152799",
+     "duration": 0.009019,
+     "end_time": "2025-04-05T02:27:28.621421",
      "exception": false,
-     "start_time": "2025-04-05T02:25:26.137816",
+     "start_time": "2025-04-05T02:27:28.612402",
      "status": "completed"
     },
     "tags": []
@@ -1544,20 +1571,20 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "044d44d1",
+   "id": "720761a2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:26.184512Z",
-     "iopub.status.busy": "2025-04-05T02:25:26.184114Z",
-     "iopub.status.idle": "2025-04-05T02:25:26.629675Z",
-     "shell.execute_reply": "2025-04-05T02:25:26.628285Z"
+     "iopub.execute_input": "2025-04-05T02:27:28.640747Z",
+     "iopub.status.busy": "2025-04-05T02:27:28.640419Z",
+     "iopub.status.idle": "2025-04-05T02:27:29.147678Z",
+     "shell.execute_reply": "2025-04-05T02:27:29.146914Z"
     },
     "id": "hd4mVUukwOKZ",
     "papermill": {
-     "duration": 0.464628,
-     "end_time": "2025-04-05T02:25:26.632416",
+     "duration": 0.5186,
+     "end_time": "2025-04-05T02:27:29.149025",
      "exception": false,
-     "start_time": "2025-04-05T02:25:26.167788",
+     "start_time": "2025-04-05T02:27:28.630425",
      "status": "completed"
     },
     "tags": []
@@ -1622,14 +1649,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "54066c23",
+   "id": "48aa7d57",
    "metadata": {
     "id": "021293096f08",
     "papermill": {
-     "duration": 0.013707,
-     "end_time": "2025-04-05T02:25:26.660272",
+     "duration": 0.009197,
+     "end_time": "2025-04-05T02:27:29.167979",
      "exception": false,
-     "start_time": "2025-04-05T02:25:26.646565",
+     "start_time": "2025-04-05T02:27:29.158782",
      "status": "completed"
     },
     "tags": []
@@ -1643,20 +1670,20 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "602921cd",
+   "id": "747af380",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:26.690542Z",
-     "iopub.status.busy": "2025-04-05T02:25:26.690068Z",
-     "iopub.status.idle": "2025-04-05T02:25:27.277438Z",
-     "shell.execute_reply": "2025-04-05T02:25:27.276355Z"
+     "iopub.execute_input": "2025-04-05T02:27:29.187956Z",
+     "iopub.status.busy": "2025-04-05T02:27:29.187666Z",
+     "iopub.status.idle": "2025-04-05T02:27:29.753410Z",
+     "shell.execute_reply": "2025-04-05T02:27:29.752281Z"
     },
     "id": "50fbf0260912",
     "papermill": {
-     "duration": 0.605295,
-     "end_time": "2025-04-05T02:25:27.279747",
+     "duration": 0.577576,
+     "end_time": "2025-04-05T02:27:29.754970",
      "exception": false,
-     "start_time": "2025-04-05T02:25:26.674452",
+     "start_time": "2025-04-05T02:27:29.177394",
      "status": "completed"
     },
     "tags": []
@@ -1697,14 +1724,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "493bb532",
+   "id": "b5afaf04",
    "metadata": {
     "id": "4a93e338e57c",
     "papermill": {
-     "duration": 0.015269,
-     "end_time": "2025-04-05T02:25:27.309702",
+     "duration": 0.009155,
+     "end_time": "2025-04-05T02:27:29.774074",
      "exception": false,
-     "start_time": "2025-04-05T02:25:27.294433",
+     "start_time": "2025-04-05T02:27:29.764919",
      "status": "completed"
     },
     "tags": []
@@ -1722,20 +1749,20 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "eabf0627",
+   "id": "763a0fb6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:27.343320Z",
-     "iopub.status.busy": "2025-04-05T02:25:27.342875Z",
-     "iopub.status.idle": "2025-04-05T02:25:27.682950Z",
-     "shell.execute_reply": "2025-04-05T02:25:27.681852Z"
+     "iopub.execute_input": "2025-04-05T02:27:29.793865Z",
+     "iopub.status.busy": "2025-04-05T02:27:29.793531Z",
+     "iopub.status.idle": "2025-04-05T02:29:01.699144Z",
+     "shell.execute_reply": "2025-04-05T02:29:01.698375Z"
     },
     "id": "5715555db1c1",
     "papermill": {
-     "duration": 0.360946,
-     "end_time": "2025-04-05T02:25:27.685245",
+     "duration": 91.92646,
+     "end_time": "2025-04-05T02:29:01.709734",
      "exception": false,
-     "start_time": "2025-04-05T02:25:27.324299",
+     "start_time": "2025-04-05T02:27:29.783274",
      "status": "completed"
     },
     "tags": []
@@ -1763,14 +1790,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7939f7f8",
+   "id": "9b2dacaa",
    "metadata": {
     "id": "e12b19677bfd",
     "papermill": {
-     "duration": 0.014781,
-     "end_time": "2025-04-05T02:25:27.715631",
+     "duration": 0.009129,
+     "end_time": "2025-04-05T02:29:01.728198",
      "exception": false,
-     "start_time": "2025-04-05T02:25:27.700850",
+     "start_time": "2025-04-05T02:29:01.719069",
      "status": "completed"
     },
     "tags": []
@@ -1782,20 +1809,20 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "78613fe9",
+   "id": "d4a08132",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:27.746753Z",
-     "iopub.status.busy": "2025-04-05T02:25:27.746362Z",
-     "iopub.status.idle": "2025-04-05T02:25:28.687958Z",
-     "shell.execute_reply": "2025-04-05T02:25:28.686610Z"
+     "iopub.execute_input": "2025-04-05T02:29:01.748155Z",
+     "iopub.status.busy": "2025-04-05T02:29:01.747910Z",
+     "iopub.status.idle": "2025-04-05T02:29:02.498716Z",
+     "shell.execute_reply": "2025-04-05T02:29:02.498101Z"
     },
     "id": "ffd7536a481f",
     "papermill": {
-     "duration": 0.960129,
-     "end_time": "2025-04-05T02:25:28.690453",
+     "duration": 0.762864,
+     "end_time": "2025-04-05T02:29:02.500373",
      "exception": false,
-     "start_time": "2025-04-05T02:25:27.730324",
+     "start_time": "2025-04-05T02:29:01.737509",
      "status": "completed"
     },
     "tags": []
@@ -1804,13 +1831,13 @@
     {
      "data": {
       "text/markdown": [
-       "Here's how to solve the problem step-by-step:\n",
+       "Here's how to solve the problem:\n",
        "\n",
-       "1.  **Find the age difference:** When you were 4, your partner was 3 times your age, meaning they were 4 * 3 = 12 years old.\n",
-       "2.  **Calculate the age gap:** The age difference between you and your partner is 12 - 4 = 8 years.\n",
-       "3.  **Determine partner's current age:** Since you are now 20, your partner is 20 + 8 = 28 years old.\n",
+       "1.  **Calculate the age difference:** When you were 4, your partner was 3 times your age, meaning they were 4 * 3 = 12 years old.\n",
+       "2.  **Find the age difference:** The age difference between you and your partner is 12 - 4 = 8 years.\n",
+       "3.  **Calculate the partner's current age:** Since you are now 20, your partner is 20 + 8 = 28 years old.\n",
        "\n",
-       "**Answer:** Your partner is currently 28 years old."
+       "**Answer:** Your partner is now 28 years old."
       ],
       "text/plain": [
        "<IPython.core.display.Markdown object>"
@@ -1834,14 +1861,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2bfe2cb7",
+   "id": "3a364807",
    "metadata": {
     "id": "oiLgBQJj0V53",
     "papermill": {
-     "duration": 0.015018,
-     "end_time": "2025-04-05T02:25:28.720086",
+     "duration": 0.009086,
+     "end_time": "2025-04-05T02:29:02.519184",
      "exception": false,
-     "start_time": "2025-04-05T02:25:28.705068",
+     "start_time": "2025-04-05T02:29:02.510098",
      "status": "completed"
     },
     "tags": []
@@ -1866,20 +1893,20 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "015d255f",
+   "id": "31174b73",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:28.752118Z",
-     "iopub.status.busy": "2025-04-05T02:25:28.751637Z",
-     "iopub.status.idle": "2025-04-05T02:25:28.759738Z",
-     "shell.execute_reply": "2025-04-05T02:25:28.758376Z"
+     "iopub.execute_input": "2025-04-05T02:29:02.539255Z",
+     "iopub.status.busy": "2025-04-05T02:29:02.538535Z",
+     "iopub.status.idle": "2025-04-05T02:29:02.543285Z",
+     "shell.execute_reply": "2025-04-05T02:29:02.542683Z"
     },
     "id": "cBgyNJ5z0VSs",
     "papermill": {
-     "duration": 0.027535,
-     "end_time": "2025-04-05T02:25:28.762100",
+     "duration": 0.016532,
+     "end_time": "2025-04-05T02:29:02.544962",
      "exception": false,
-     "start_time": "2025-04-05T02:25:28.734565",
+     "start_time": "2025-04-05T02:29:02.528430",
      "status": "completed"
     },
     "tags": []
@@ -1975,14 +2002,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bcb7c878",
+   "id": "f11ef7a2",
    "metadata": {
     "id": "C3wbfstjTgey",
     "papermill": {
-     "duration": 0.014328,
-     "end_time": "2025-04-05T02:25:28.791892",
+     "duration": 0.009364,
+     "end_time": "2025-04-05T02:29:02.564775",
      "exception": false,
-     "start_time": "2025-04-05T02:25:28.777564",
+     "start_time": "2025-04-05T02:29:02.555411",
      "status": "completed"
     },
     "tags": []
@@ -1994,20 +2021,20 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "dda37fcf",
+   "id": "419ac25d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:28.823002Z",
-     "iopub.status.busy": "2025-04-05T02:25:28.822584Z",
-     "iopub.status.idle": "2025-04-05T02:25:31.565263Z",
-     "shell.execute_reply": "2025-04-05T02:25:31.563965Z"
+     "iopub.execute_input": "2025-04-05T02:29:02.585182Z",
+     "iopub.status.busy": "2025-04-05T02:29:02.584460Z",
+     "iopub.status.idle": "2025-04-05T02:29:04.998195Z",
+     "shell.execute_reply": "2025-04-05T02:29:04.997174Z"
     },
     "id": "8mxrXRkRTdXm",
     "papermill": {
-     "duration": 2.761947,
-     "end_time": "2025-04-05T02:25:31.568420",
+     "duration": 2.425304,
+     "end_time": "2025-04-05T02:29:04.999587",
      "exception": false,
-     "start_time": "2025-04-05T02:25:28.806473",
+     "start_time": "2025-04-05T02:29:02.574283",
      "status": "completed"
     },
     "tags": []
@@ -2018,61 +2045,58 @@
      "output_type": "stream",
      "text": [
       "Thought 1\n",
-      "I need to find the \"transformers NLP paper\" and then find the youngest author listed on the paper.\n",
+      "I need to find the transformers NLP paper and identify the youngest author listed.\n",
       "\n",
       "Action 1\n",
       "<search>transformers NLP paper</search>\n",
       "\n",
       "Observation 1\n",
-      "Attention Is All You Need is a paper published in 2017 that introduced the transformer model. It was written by Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin.\n",
+      "Attention Is All You Need is a 2017 research paper by Vaswani et al. that introduced the transformer model.\n",
       "\n",
       "Thought 2\n",
-      "Now I have the authors of the paper, I need to find their birthdates or ages to determine the youngest author. I'll start with the first author, Ashish Vaswani.\n",
+      "Now I need to identify the authors of the paper and find out who the youngest one is.\n",
       "\n",
       "Action 2\n",
-      "<search>Ashish Vaswani</search>\n",
+      "<search>Attention Is All You Need authors</search>\n",
       "\n",
       "Observation 2\n",
-      "I am unable to find information about Ashish Vaswani. I will try the next author, Noam Shazeer.\n",
+      "The authors of the paper are Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin.\n",
       "\n",
       "Thought 3\n",
-      "Let me try searching for Noam Shazeer's age or birthdate.\n",
+      "Now I need to find the birthdates of each author to determine the youngest.\n",
       "\n",
       "Action 3\n",
-      "<search>Noam Shazeer age</search>\n",
+      "<search>Ashish Vaswani birthday</search>\n",
       "\n",
       "Observation 3\n",
-      "I can't find Noam Shazeer's age. I will search for Aidan N. Gomez.\n",
+      "I am unable to find the birthdate of Ashish Vaswani on the search. I will try the other authors.\n",
       "\n",
       "Action 4\n",
-      "<search>Aidan N. Gomez age</search>\n",
+      "<search>Noam Shazeer birthday</search>\n",
       "\n",
       "Observation 4\n",
-      "Aidan Gomez is 26 years old\n",
-      "\n",
-      "Thought 5\n",
-      "Okay, I now know that Aidan Gomez is 26 years old. Let me search for other authors' ages.\n",
+      "I am unable to find the birthdate of Noam Shazeer on the search. I will try the other authors.\n",
       "\n",
       "Action 5\n",
-      "<search>Niki Parmar age</search>\n",
+      "<search>Niki Parmar birthday</search>\n",
       "\n",
       "Observation 5\n",
-      "I am unable to find information about Niki Parmar's age. I will try the next author, Jakob Uszkoreit.\n",
+      "I am unable to find the birthdate of Niki Parmar on the search. I will try the other authors.\n",
       "\n",
-      "Thought 6\n",
-      "<search>Jakob Uszkoreit age</search>\n",
+      "Action 6\n",
+      "<search>Jakob Uszkoreit birthday</search>\n",
       "\n",
       "Observation 6\n",
-      "I am unable to find information about Jakob Uszkoreit's age. I will try the next author, Llion Jones.\n",
+      "I am unable to find the birthdate of Jakob Uszkoreit on the search. I will try the other authors.\n",
       "\n",
-      "Thought 7\n",
-      "<search>Llion Jones age</search>\n",
+      "Action 7\n",
+      "<search>Llion Jones birthday</search>\n",
       "\n",
       "Observation 7\n",
-      "I am unable to find information about Llion Jones' age. I will try the next author, Łukasz Kaiser.\n",
+      "I am unable to find the birthdate of Llion Jones on the search. I will try the other authors.\n",
       "\n",
-      "Thought 8\n",
-      "<search>Łukasz Kaiser age</search>\n",
+      "Action 8\n",
+      "<search>Aidan N. Gomez birthday</search>\n",
       "\n"
      ]
     }
@@ -2100,14 +2124,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2a8c8083",
+   "id": "bade8c03",
    "metadata": {
     "id": "aW2PIdLbVv3l",
     "papermill": {
-     "duration": 0.014193,
-     "end_time": "2025-04-05T02:25:31.597366",
+     "duration": 0.009268,
+     "end_time": "2025-04-05T02:29:05.018856",
      "exception": false,
-     "start_time": "2025-04-05T02:25:31.583173",
+     "start_time": "2025-04-05T02:29:05.009588",
      "status": "completed"
     },
     "tags": []
@@ -2119,20 +2143,20 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "932a6c0b",
+   "id": "2acc0b01",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:31.628046Z",
-     "iopub.status.busy": "2025-04-05T02:25:31.627665Z",
-     "iopub.status.idle": "2025-04-05T02:25:34.345624Z",
-     "shell.execute_reply": "2025-04-05T02:25:34.344231Z"
+     "iopub.execute_input": "2025-04-05T02:29:05.038592Z",
+     "iopub.status.busy": "2025-04-05T02:29:05.038331Z",
+     "iopub.status.idle": "2025-04-05T02:29:07.312445Z",
+     "shell.execute_reply": "2025-04-05T02:29:07.311401Z"
     },
     "id": "mLMc0DZaV9g2",
     "papermill": {
-     "duration": 2.736018,
-     "end_time": "2025-04-05T02:25:34.347871",
+     "duration": 2.286072,
+     "end_time": "2025-04-05T02:29:07.314197",
      "exception": false,
-     "start_time": "2025-04-05T02:25:31.611853",
+     "start_time": "2025-04-05T02:29:05.028125",
      "status": "completed"
     },
     "tags": []
@@ -2143,71 +2167,34 @@
      "output_type": "stream",
      "text": [
       "Thought 1\n",
-      "I already have the list of authors: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. From previous searches, I only found Aidan N. Gomez's age, which is 26. I should search the other authors again, but this time I can also try including \"birthdate\" in my search.\n",
+      "I've already identified the authors: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. I was unable to find their birthdays using search. Since I can't determine the youngest author with the information available, I will try a different approach. I will search for each author's age or biographical information to see if anything helps.\n",
       "\n",
       "Action 1\n",
-      "<search>Ashish Vaswani birthdate</search>\n",
+      "<search>Aidan N. Gomez age</search>\n",
       "\n",
       "Observation 1\n",
-      "I am unable to find information about Ashish Vaswani's birthdate.\n",
-      "\n",
-      "Thought 2\n",
-      "Okay, I will try searching for Noam Shazeer's birthdate.\n",
+      "I am unable to find age information for Aidan N. Gomez. I will search his biographical information.\n",
       "\n",
       "Action 2\n",
-      "<search>Noam Shazeer birthdate</search>\n",
+      "<search>Aidan N. Gomez biography</search>\n",
       "\n",
       "Observation 2\n",
-      "I am unable to find information about Noam Shazeer's birthdate.\n",
+      "Aidan Gomez is the CEO and co-founder of Cohere, a startup providing access to advanced large language models through an API. He co-authored the seminal paper \"Attention is All You Need\" while working as a research intern at Google Brain.\n",
       "\n",
       "Thought 3\n",
-      "I will try searching for Niki Parmar's birthdate.\n",
+      "The biography mentions that he co-authored the paper as a research intern. Interns are often younger than other researchers. Let me see if I can find information about when Cohere was founded. This could give me a clue.\n",
       "\n",
       "Action 3\n",
-      "<search>Niki Parmar birthdate</search>\n",
+      "<search>Cohere founded</search>\n",
       "\n",
       "Observation 3\n",
-      "I am unable to find information about Niki Parmar's birthdate.\n",
+      "Cohere was founded in 2019.\n",
       "\n",
       "Thought 4\n",
-      "I will try searching for Jakob Uszkoreit's birthdate.\n",
+      "If Cohere was founded in 2019, and he was an intern working on the paper in 2017, he was likely quite young at the time. Without more information about the other authors, it's reasonable to assume he was the youngest.\n",
       "\n",
       "Action 4\n",
-      "<search>Jakob Uszkoreit birthdate</search>\n",
-      "\n",
-      "Observation 4\n",
-      "I am unable to find information about Jakob Uszkoreit's birthdate.\n",
-      "\n",
-      "Thought 5\n",
-      "I will try searching for Llion Jones' birthdate.\n",
-      "\n",
-      "Action 5\n",
-      "<search>Llion Jones birthdate</search>\n",
-      "\n",
-      "Observation 5\n",
-      "I am unable to find information about Llion Jones' birthdate.\n",
-      "\n",
-      "Thought 6\n",
-      "I will try searching for Łukasz Kaiser's birthdate.\n",
-      "\n",
-      "Action 6\n",
-      "<search>Łukasz Kaiser birthdate</search>\n",
-      "\n",
-      "Observation 6\n",
-      "I am unable to find information about Łukasz Kaiser's birthdate.\n",
-      "\n",
-      "Thought 7\n",
-      "I will try searching for Illia Polosukhin's birthdate.\n",
-      "\n",
-      "Action 7\n",
-      "<search>Illia Polosukhin birthdate</search>\n",
-      "\n",
-      "Observation 7\n",
-      "I am unable to find information about Illia Polosukhin's birthdate. I only know the age of Aidan N. Gomez, which is 26. Since I cannot find any other author's age, I can only assume Aidan N. Gomez is the youngest author.\n",
-      "\n",
-      "Action 8\n",
-      "<finish>Aidan N. Gomez</finish>\n",
-      "\n"
+      "<finish>Aidan N. Gomez</finish>\n"
      ]
     }
    ],
@@ -2223,14 +2210,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c85d0764",
+   "id": "385dc7f7",
    "metadata": {
     "id": "bo0tzf4nX6dA",
     "papermill": {
-     "duration": 0.014149,
-     "end_time": "2025-04-05T02:25:34.376836",
+     "duration": 0.009773,
+     "end_time": "2025-04-05T02:29:07.334353",
      "exception": false,
-     "start_time": "2025-04-05T02:25:34.362687",
+     "start_time": "2025-04-05T02:29:07.324580",
      "status": "completed"
     },
     "tags": []
@@ -2241,13 +2228,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4f2bdbb4",
+   "id": "cdec55f1",
    "metadata": {
     "papermill": {
-     "duration": 0.014466,
-     "end_time": "2025-04-05T02:25:34.405842",
+     "duration": 0.009292,
+     "end_time": "2025-04-05T02:29:07.353253",
      "exception": false,
-     "start_time": "2025-04-05T02:25:34.391376",
+     "start_time": "2025-04-05T02:29:07.343961",
      "status": "completed"
     },
     "tags": []
@@ -2271,19 +2258,19 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "80520172",
+   "id": "92f493e8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:34.437624Z",
-     "iopub.status.busy": "2025-04-05T02:25:34.437087Z",
-     "iopub.status.idle": "2025-04-05T02:25:40.763719Z",
-     "shell.execute_reply": "2025-04-05T02:25:40.762652Z"
+     "iopub.execute_input": "2025-04-05T02:29:07.373786Z",
+     "iopub.status.busy": "2025-04-05T02:29:07.373457Z",
+     "iopub.status.idle": "2025-04-05T02:29:14.416259Z",
+     "shell.execute_reply": "2025-04-05T02:29:14.415504Z"
     },
     "papermill": {
-     "duration": 6.345164,
-     "end_time": "2025-04-05T02:25:40.765796",
+     "duration": 7.055152,
+     "end_time": "2025-04-05T02:29:14.418018",
      "exception": false,
-     "start_time": "2025-04-05T02:25:34.420632",
+     "start_time": "2025-04-05T02:29:07.362866",
      "status": "completed"
     },
     "tags": []
@@ -2292,9 +2279,9 @@
     {
      "data": {
       "text/markdown": [
-       "The youngest author listed on the groundbreaking Transformers NLP paper, \"Attention is All You Need,\" is **Aidan N. Gomez**.\n",
+       "The youngest author listed on the \"Attention is All You Need\" paper, which introduced the Transformer architecture, is **Aidan N. Gomez**.\n",
        "\n",
-       "He was notably the youngest author on the paper, reportedly around **20 or 21 years old** at the time of its publication in 2017. He was a graduate student at the University of Oxford at the time of the research."
+       "At the time of publication in 2017, Aidan N. Gomez was an undergraduate student at the University of Toronto, making him significantly younger than the other authors who were primarily researchers and PhD students at Google Brain and other institutions."
       ],
       "text/plain": [
        "<IPython.core.display.Markdown object>"
@@ -2328,14 +2315,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ec2b07cd",
+   "id": "1914338e",
    "metadata": {
     "id": "jPiZ_eIIaVPt",
     "papermill": {
-     "duration": 0.014531,
-     "end_time": "2025-04-05T02:25:40.795653",
+     "duration": 0.009462,
+     "end_time": "2025-04-05T02:29:14.438056",
      "exception": false,
-     "start_time": "2025-04-05T02:25:40.781122",
+     "start_time": "2025-04-05T02:29:14.428594",
      "status": "completed"
     },
     "tags": []
@@ -2346,14 +2333,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "75f1301f",
+   "id": "23535df7",
    "metadata": {
     "id": "ZinKamwXeR6C",
     "papermill": {
-     "duration": 0.014532,
-     "end_time": "2025-04-05T02:25:40.825261",
+     "duration": 0.009274,
+     "end_time": "2025-04-05T02:29:14.456942",
      "exception": false,
-     "start_time": "2025-04-05T02:25:40.810729",
+     "start_time": "2025-04-05T02:29:14.447668",
      "status": "completed"
     },
     "tags": []
@@ -2375,20 +2362,20 @@
   {
    "cell_type": "code",
    "execution_count": 29,
-   "id": "adcf33df",
+   "id": "29989796",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:40.857198Z",
-     "iopub.status.busy": "2025-04-05T02:25:40.856211Z",
-     "iopub.status.idle": "2025-04-05T02:25:41.388739Z",
-     "shell.execute_reply": "2025-04-05T02:25:41.387570Z"
+     "iopub.execute_input": "2025-04-05T02:29:14.477128Z",
+     "iopub.status.busy": "2025-04-05T02:29:14.476865Z",
+     "iopub.status.idle": "2025-04-05T02:29:15.135608Z",
+     "shell.execute_reply": "2025-04-05T02:29:15.134734Z"
     },
     "id": "fOQP9pqmeUO1",
     "papermill": {
-     "duration": 0.551589,
-     "end_time": "2025-04-05T02:25:41.391375",
+     "duration": 0.671034,
+     "end_time": "2025-04-05T02:29:15.137485",
      "exception": false,
-     "start_time": "2025-04-05T02:25:40.839786",
+     "start_time": "2025-04-05T02:29:14.466451",
      "status": "completed"
     },
     "tags": []
@@ -2400,13 +2387,19 @@
        "```python\n",
        "def factorial(n):\n",
        "  \"\"\"\n",
-       "  Calculate the factorial of a number.\n",
+       "  Calculates the factorial of a number.\n",
+       "\n",
+       "  Args:\n",
+       "    n: The number to calculate the factorial of.\n",
+       "\n",
+       "  Returns:\n",
+       "    The factorial of n.\n",
        "  \"\"\"\n",
        "  if n == 0:\n",
        "    return 1\n",
        "  else:\n",
        "    return n * factorial(n-1)\n",
-       "```\n"
+       "```"
       ],
       "text/plain": [
        "<IPython.core.display.Markdown object>"
@@ -2438,14 +2431,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0d3217f4",
+   "id": "1a6934df",
    "metadata": {
     "id": "wlBMWSFhgVRQ",
     "papermill": {
-     "duration": 0.014987,
-     "end_time": "2025-04-05T02:25:41.421786",
+     "duration": 0.009531,
+     "end_time": "2025-04-05T02:29:15.157313",
      "exception": false,
-     "start_time": "2025-04-05T02:25:41.406799",
+     "start_time": "2025-04-05T02:29:15.147782",
      "status": "completed"
     },
     "tags": []
@@ -2465,20 +2458,20 @@
   {
    "cell_type": "code",
    "execution_count": 30,
-   "id": "93173df1",
+   "id": "a62cac86",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:41.454620Z",
-     "iopub.status.busy": "2025-04-05T02:25:41.454201Z",
-     "iopub.status.idle": "2025-04-05T02:25:43.537554Z",
-     "shell.execute_reply": "2025-04-05T02:25:43.536133Z"
+     "iopub.execute_input": "2025-04-05T02:29:15.178439Z",
+     "iopub.status.busy": "2025-04-05T02:29:15.178186Z",
+     "iopub.status.idle": "2025-04-05T02:29:17.024192Z",
+     "shell.execute_reply": "2025-04-05T02:29:17.023424Z"
     },
     "id": "jT3OfWYfhjRL",
     "papermill": {
-     "duration": 2.10295,
-     "end_time": "2025-04-05T02:25:43.540280",
+     "duration": 1.858232,
+     "end_time": "2025-04-05T02:29:17.025717",
      "exception": false,
-     "start_time": "2025-04-05T02:25:41.437330",
+     "start_time": "2025-04-05T02:29:15.167485",
      "status": "completed"
     },
     "tags": []
@@ -2488,42 +2481,26 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "{'text': 'Okay, I understand. First, I will generate the first 14 odd prime '\n",
-      "         'numbers. Then, I will calculate their sum.\\n'\n",
+      "{'text': 'Okay, I can do that. First, I need to identify the first 14 odd '\n",
+      "         'prime numbers. A prime number is a number greater than 1 that has '\n",
+      "         'only two divisors: 1 and itself. The first few prime numbers are 2, '\n",
+      "         '3, 5, 7, 11, and so on. Since I need *odd* prime numbers, I will '\n",
+      "         'exclude 2 from the list.\\n'\n",
       "         '\\n'\n",
-      "         'The first few prime numbers are 2, 3, 5, 7, 11, etc. Since I need '\n",
-      "         '*odd* prime numbers, I will exclude 2.\\n'\n",
-      "         '\\n'\n",
-      "         \"Here's how I'll do it:\\n\"\n",
-      "         '\\n'\n",
-      "         '1.  List prime numbers, skipping 2.\\n'\n",
-      "         '2.  Stop when I have 14 odd prime numbers.\\n'\n",
-      "         '3.  Sum those numbers.\\n'\n",
+      "         \"Then, I'll calculate the sum of these 14 numbers.\\n\"\n",
       "         '\\n'}\n",
       "-----\n",
-      "{'executable_code': {'code': 'primes = []\\n'\n",
-      "                             'num = 3\\n'\n",
-      "                             'while len(primes) < 14:\\n'\n",
-      "                             '    is_prime = True\\n'\n",
-      "                             '    for i in range(2, int(num**0.5) + 1):\\n'\n",
-      "                             '        if num % i == 0:\\n'\n",
-      "                             '            is_prime = False\\n'\n",
-      "                             '            break\\n'\n",
-      "                             '    if is_prime:\\n'\n",
-      "                             '        primes.append(num)\\n'\n",
-      "                             '    num += 2  # Check only odd numbers\\n'\n",
-      "                             '\\n'\n",
+      "{'executable_code': {'code': 'primes = [3, 5, 7, 11, 13, 17, 19, 23, 29, 31, '\n",
+      "                             '37, 41, 43, 47]\\n'\n",
+      "                             'sum_of_primes = sum(primes)\\n'\n",
       "                             \"print(f'{primes=}')\\n\"\n",
-      "                             '\\n'\n",
-      "                             'import numpy as np\\n'\n",
-      "                             'sum_of_primes = np.sum(primes)\\n'\n",
       "                             \"print(f'{sum_of_primes=}')\\n\",\n",
       "                     'language': 'PYTHON'}}\n",
       "-----\n",
       "{'code_execution_result': {'outcome': 'OUTCOME_OK',\n",
       "                           'output': 'primes=[3, 5, 7, 11, 13, 17, 19, 23, 29, '\n",
       "                                     '31, 37, 41, 43, 47]\\n'\n",
-      "                                     'sum_of_primes=np.int64(326)\\n'}}\n",
+      "                                     'sum_of_primes=326\\n'}}\n",
       "-----\n",
       "{'text': 'The first 14 odd prime numbers are 3, 5, 7, 11, 13, 17, 19, 23, 29, '\n",
       "         '31, 37, 41, 43, and 47.\\n'\n",
@@ -2556,14 +2533,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "362c8e80",
+   "id": "b66c16b9",
    "metadata": {
     "id": "ZspT1GSkjG6d",
     "papermill": {
-     "duration": 0.015068,
-     "end_time": "2025-04-05T02:25:43.571957",
+     "duration": 0.009621,
+     "end_time": "2025-04-05T02:29:17.045806",
      "exception": false,
-     "start_time": "2025-04-05T02:25:43.556889",
+     "start_time": "2025-04-05T02:29:17.036185",
      "status": "completed"
     },
     "tags": []
@@ -2577,19 +2554,19 @@
   {
    "cell_type": "code",
    "execution_count": 31,
-   "id": "ea806418",
+   "id": "b4e5bdeb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:43.604553Z",
-     "iopub.status.busy": "2025-04-05T02:25:43.604149Z",
-     "iopub.status.idle": "2025-04-05T02:25:43.619008Z",
-     "shell.execute_reply": "2025-04-05T02:25:43.617925Z"
+     "iopub.execute_input": "2025-04-05T02:29:17.066525Z",
+     "iopub.status.busy": "2025-04-05T02:29:17.066278Z",
+     "iopub.status.idle": "2025-04-05T02:29:17.075356Z",
+     "shell.execute_reply": "2025-04-05T02:29:17.074687Z"
     },
     "papermill": {
-     "duration": 0.034287,
-     "end_time": "2025-04-05T02:25:43.621710",
+     "duration": 0.021191,
+     "end_time": "2025-04-05T02:29:17.076728",
      "exception": false,
-     "start_time": "2025-04-05T02:25:43.587423",
+     "start_time": "2025-04-05T02:29:17.055537",
      "status": "completed"
     },
     "tags": []
@@ -2598,15 +2575,9 @@
     {
      "data": {
       "text/markdown": [
-       "Okay, I understand. First, I will generate the first 14 odd prime numbers. Then, I will calculate their sum.\n",
+       "Okay, I can do that. First, I need to identify the first 14 odd prime numbers. A prime number is a number greater than 1 that has only two divisors: 1 and itself. The first few prime numbers are 2, 3, 5, 7, 11, and so on. Since I need *odd* prime numbers, I will exclude 2 from the list.\n",
        "\n",
-       "The first few prime numbers are 2, 3, 5, 7, 11, etc. Since I need *odd* prime numbers, I will exclude 2.\n",
-       "\n",
-       "Here's how I'll do it:\n",
-       "\n",
-       "1.  List prime numbers, skipping 2.\n",
-       "2.  Stop when I have 14 odd prime numbers.\n",
-       "3.  Sum those numbers.\n",
+       "Then, I'll calculate the sum of these 14 numbers.\n",
        "\n"
       ],
       "text/plain": [
@@ -2620,22 +2591,9 @@
      "data": {
       "text/markdown": [
        "```python\n",
-       "primes = []\n",
-       "num = 3\n",
-       "while len(primes) < 14:\n",
-       "    is_prime = True\n",
-       "    for i in range(2, int(num**0.5) + 1):\n",
-       "        if num % i == 0:\n",
-       "            is_prime = False\n",
-       "            break\n",
-       "    if is_prime:\n",
-       "        primes.append(num)\n",
-       "    num += 2  # Check only odd numbers\n",
-       "\n",
+       "primes = [3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]\n",
+       "sum_of_primes = sum(primes)\n",
        "print(f'{primes=}')\n",
-       "\n",
-       "import numpy as np\n",
-       "sum_of_primes = np.sum(primes)\n",
        "print(f'{sum_of_primes=}')\n",
        "\n",
        "```"
@@ -2652,7 +2610,7 @@
       "text/markdown": [
        "```\n",
        "primes=[3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]\n",
-       "sum_of_primes=np.int64(326)\n",
+       "sum_of_primes=326\n",
        "\n",
        "```"
       ],
@@ -2693,14 +2651,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d3dd98cf",
+   "id": "90337798",
    "metadata": {
     "id": "1gUX8QzCj4d5",
     "papermill": {
-     "duration": 0.015181,
-     "end_time": "2025-04-05T02:25:43.652637",
+     "duration": 0.009891,
+     "end_time": "2025-04-05T02:29:17.097558",
      "exception": false,
-     "start_time": "2025-04-05T02:25:43.637456",
+     "start_time": "2025-04-05T02:29:17.087667",
      "status": "completed"
     },
     "tags": []
@@ -2720,20 +2678,20 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "de7d68fb",
+   "id": "b5d98d3a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-04-05T02:25:43.686446Z",
-     "iopub.status.busy": "2025-04-05T02:25:43.685420Z",
-     "iopub.status.idle": "2025-04-05T02:25:46.441636Z",
-     "shell.execute_reply": "2025-04-05T02:25:46.440501Z"
+     "iopub.execute_input": "2025-04-05T02:29:17.118621Z",
+     "iopub.status.busy": "2025-04-05T02:29:17.118364Z",
+     "iopub.status.idle": "2025-04-05T02:29:19.402730Z",
+     "shell.execute_reply": "2025-04-05T02:29:19.401871Z"
     },
     "id": "7_jPMMoxkIEb",
     "papermill": {
-     "duration": 2.775667,
-     "end_time": "2025-04-05T02:25:46.444002",
+     "duration": 2.29687,
+     "end_time": "2025-04-05T02:29:19.404303",
      "exception": false,
-     "start_time": "2025-04-05T02:25:43.668335",
+     "start_time": "2025-04-05T02:29:17.107433",
      "status": "completed"
     },
     "tags": []
@@ -2742,27 +2700,21 @@
     {
      "data": {
       "text/markdown": [
-       "This file is a **Bash script** that aims to enhance your command-line prompt by displaying information about the current Git repository you're working in. It's commonly known as a \"Git prompt\" or \"Git status prompt.\"\n",
+       "This file is a **bash/zsh script designed to enhance your command-line prompt with information about the current Git repository.**  It's often referred to as a \"git prompt\" script.\n",
        "\n",
-       "Here's a breakdown of what it does:\n",
+       "**In simpler terms:**\n",
        "\n",
-       "*   **Displays Git Status:** When you're in a Git repository, the prompt will show information like the current branch, whether there are uncommitted changes (staged, unstaged, untracked), the number of commits ahead or behind the remote branch, and more.\n",
-       "\n",
-       "*   **Customization:** It allows you to customize the prompt's appearance with colors, symbols, and the information displayed. It uses themes to define the look and feel of the Git prompt.\n",
-       "\n",
-       "*   **Asynchronous Fetching (optional):** To avoid slowing down your prompt, it can optionally fetch the remote status of the Git repository in the background (asynchronously) so your prompt doesn't have to wait for the fetch to complete every time.\n",
-       "\n",
-       "*   **Works with Bash and Zsh:** The script includes compatibility measures to work correctly with both Bash and Zsh shells.\n",
-       "\n",
-       "**Why use it?**\n",
-       "\n",
-       "*   **Stay Informed:** At a glance, you can see the status of your Git repository without having to run `git status` repeatedly.\n",
-       "\n",
-       "*   **Improve Workflow:** Knowing the Git status in your prompt can help you avoid mistakes and improve your overall Git workflow.\n",
-       "\n",
-       "*   **Personalize Your Shell:** It lets you personalize your command-line environment to make it more informative and visually appealing.\n",
-       "\n",
-       "In short, it's a tool that provides a visual indicator of your Git repository's status directly in your command-line prompt, making it easier to manage your Git projects. You would use this file to improve your command line interface, so that your shell is more informative while working with git.\n"
+       "*   **What it is:** A script that makes your command prompt (the thing you type commands into) smarter about Git.\n",
+       "*   **What it does:** It looks at the current directory to see if it's a Git repository. If it is, it shows you information in your prompt, such as:\n",
+       "    *   The current branch you're on.\n",
+       "    *   Whether you have any uncommitted changes (staged, unstaged, or untracked).\n",
+       "    *   Whether your local branch is ahead or behind the remote branch.\n",
+       "    *   The status of your virtual environment, if there is one.\n",
+       "*   **Why use it:**\n",
+       "    *   **Instant Git Status:** You can see the status of your Git repository at a glance, without having to type `git status` every time.\n",
+       "    *   **Improved Workflow:**  Keeps you aware of your Git state, reducing mistakes and improving your overall workflow.\n",
+       "    *   **Customization:** It's highly customizable, allowing you to choose the colors, symbols, and information that are most important to you.\n",
+       "*   **How to use it:** You would typically source this script in your `.bashrc` or `.zshrc` file.  This means adding a line like `source /path/to/this/script.sh` to one of those files.  Then, when you open a new terminal, your prompt will be enhanced with Git information.\n"
       ],
       "text/plain": [
        "<IPython.core.display.Markdown object>"
@@ -2793,14 +2745,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7316f904",
+   "id": "8a0c5f1f",
    "metadata": {
     "id": "2a8266d97ce5",
     "papermill": {
-     "duration": 0.015209,
-     "end_time": "2025-04-05T02:25:46.474767",
+     "duration": 0.009903,
+     "end_time": "2025-04-05T02:29:19.425397",
      "exception": false,
-     "start_time": "2025-04-05T02:25:46.459558",
+     "start_time": "2025-04-05T02:29:19.415494",
      "status": "completed"
     },
     "tags": []
@@ -2857,14 +2809,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 73.005136,
-   "end_time": "2025-04-05T02:25:47.313871",
+   "duration": 143.341504,
+   "end_time": "2025-04-05T02:29:19.854048",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-04-05T02:24:34.308735",
+   "start_time": "2025-04-05T02:26:56.512544",
    "version": "2.6.0"
   }
  },
